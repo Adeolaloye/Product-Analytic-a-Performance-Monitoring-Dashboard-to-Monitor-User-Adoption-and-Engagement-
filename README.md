@@ -1,5 +1,20 @@
 ## Product Analytics: Implementing a Performance Monitoring Dashboard to Monitor User Adoption and Engagement on VendBridge App
 ### Business Introduction
 VendBridge, a brainchild of NexaLink- a renowned tech giant, is a digital platform that effortlessly connects buyers and sellers in today's dynamic marketplace.Recognizing the growing need for a platform that not only facilitates transactions but also fosters trust and loyalty, NexaLink launched Vend Bridge as a strategic move to capitalize on the increasing trend of digital commerce. VendBridge was born out of the aspiration to simplify and enhance the way people engage in online commerce. It aims to provide a seamless and transparent platform where buyers can effortlessly discover products they desire and connect with sellers who offer them. Through VendBridge, NexaLink aspires to set new benchmarks in e-commerce, fostering trust and ensuring both parties involved in a transaction are satisfied and well-served.
+
+ ![Capture overview](https://github.com/user-attachments/assets/a9567043-ad1b-4569-8abd-7f073b39ccb6)
+
+![Capture engage](https://github.com/user-attachments/assets/e820dffe-eae9-4a5e-a598-6055e42878c0)
+
+![Capture leader](https://github.com/user-attachments/assets/94fd33c6-ea51-4634-a1d1-97af316769bc)
+
+![Capture forcast](https://github.com/user-attachments/assets/d9eda444-766c-4f0a-ac6a-19a9a691744e)
+
+
+
+
+
+
+
 ### Business Problem
 NexaLink introduced VendBridge to the market just three months ago, following an extensive series of pre-launch and post-launch marketing campaigns. With a significant investment in promotional efforts, the product team wants to monitor the performance of VendBridge since its inception. The team is keen on understanding the extent to which VendBridge has been embraced by the market and also constantly monitor the app performance. Key performance metrics (KPIs) such as daily active users (DAUs), installation rates, user sign-up figures, transaction counts, and other product analytics metrics will be used to assess VendBridge's reception and impact. By meticulously assessing these metrics, the product team can gain a precise understanding of VendBridge's reception and impact in the market as well as its performance. This will help the product team can gain valuable insights into the performance of VendBridge and identify areas where it can be improved to better meet the needs of its users.

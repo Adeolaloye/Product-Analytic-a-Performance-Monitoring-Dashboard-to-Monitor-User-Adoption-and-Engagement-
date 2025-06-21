@@ -1,5 +1,15 @@
 ## Product Analytics: Implementing a Performance Monitoring Dashboard to Monitor User Adoption and Engagement on VendBridge App
 This repository contains the analytical work, Tableau dashboards, and insights derived from tracking the market performance and user engagement of the VendBridge App within the first 3 months of its launch.
+### Table of Content
+- [Project Overview](#project-overview)
+- [Key Dashboards](#key-dashboards)
+- [Business Problem](#business-problem)
+- [Project Objectives](#project-objectives)
+- [Tech Stack](#tech-stack)
+- [Data Description](#data-description)
+- [Process](#process)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
 ### Project Overview
 VendBridge, a brainchild of NexaLink- a renowned tech giant, is a digital platform that effortlessly connects buyers and sellers in today's dynamic marketplace.Recognizing the growing need for a platform that not only facilitates transactions but also fosters trust and loyalty, NexaLink launched Vend Bridge as a strategic move to capitalize on the increasing trend of digital commerce. VendBridge was born out of the aspiration to simplify and enhance the way people engage in online commerce. It aims to provide a seamless and transparent platform where buyers can effortlessly discover products they desire and connect with sellers who offer them. Through VendBridge, NexaLink aspires to set new benchmarks in e-commerce, fostering trust and ensuring both parties involved in a transaction are satisfied and well-served.
 ### Key Dashboards
@@ -16,12 +26,6 @@ VendBridge, a brainchild of NexaLink- a renowned tech giant, is a digital platfo
 
 ![Capture forcast](https://github.com/user-attachments/assets/d9eda444-766c-4f0a-ac6a-19a9a691744e)
 
-
-
-
-
-
-
 ### Business Problem
 NexaLink introduced VendBridge to the market just three months ago, following an extensive series of pre-launch and post-launch marketing campaigns. With a significant investment in promotional efforts, the product team wants to monitor the performance of VendBridge since its inception. The team is keen on understanding the extent to which VendBridge has been embraced by the market and also constantly monitor the app performance. Key performance metrics (KPIs) such as daily active users (DAUs), installation rates, user sign-up figures, transaction counts, and other product analytics metrics will be used to assess VendBridge's reception and impact. By meticulously assessing these metrics, the product team can gain a precise understanding of VendBridge's reception and impact in the market as well as its performance. This will help the product team can gain valuable insights into the performance of VendBridge and identify areas where it can be improved to better meet the needs of its users.
 
@@ -37,7 +41,8 @@ NexaLink introduced VendBridge to the market just three months ago, following an
 5. **Identify Growth Drivers and Risk Indicators**  
    Pinpoint the KPIs positively and negatively influencing product success to support improvement strategies
 
-### Tools & Technologies
+### Tech Stack
+- **Google Sheet**
 - **Data Visualization**: Tableau  
 - **Data Source**: VendBridge performance dataset (CSV)  
 - **Forecasting**: Tableau in-built time series forecasting  
@@ -55,12 +60,8 @@ NexaLink introduced VendBridge to the market just three months ago, following an
 -  Avg Time Spent per User (min): The average duration, in minutes, that each user spent interacting with the VendBridge app on the specified date . 
 -  Region: The region in which the data was collected
 -  Device: The device on which the data was collected
-
-### Tech Stack
-- Google Sheet
-- Tableau
-
-### What I did
+ 
+### Process
 #### 1. **Data Understanding**
 - Reviewed raw dataset and cleaned the data where necessary.
 - Upload the cleaned data into Tableau  
